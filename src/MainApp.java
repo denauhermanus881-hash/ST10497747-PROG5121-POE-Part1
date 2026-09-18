@@ -1,3 +1,5 @@
+// Main application entry point.
+
 import java.util.Scanner;
 
 public class MainApp {
