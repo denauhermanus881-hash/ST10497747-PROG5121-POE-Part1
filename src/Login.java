@@ -1,3 +1,5 @@
+// Login class handling authentication logic.
+
 public class Login {
 
     private String userVal;
